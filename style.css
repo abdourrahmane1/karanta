@@ -1,0 +1,13 @@
+.gb:hover{
+    background-color: aqua;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+.img1{
+width: 20px;
+margin: -10px;
+}
+.text-white{
+text-align: end;
+}
